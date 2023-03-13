@@ -1,0 +1,4 @@
+#en este archivo le digo a git los archivos que no quiero que se suban al servidor
+db.sqlite3
+venv
+__pycache__
